@@ -1,0 +1,14 @@
+C:\Users\husse\source\repos\SkyHM\SkyHM\bin\Debug\net8.0\SkyHM.exe
+C:\Users\husse\source\repos\SkyHM\SkyHM\bin\Debug\net8.0\SkyHM.deps.json
+C:\Users\husse\source\repos\SkyHM\SkyHM\bin\Debug\net8.0\SkyHM.runtimeconfig.json
+C:\Users\husse\source\repos\SkyHM\SkyHM\bin\Debug\net8.0\SkyHM.dll
+C:\Users\husse\source\repos\SkyHM\SkyHM\bin\Debug\net8.0\SkyHM.pdb
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.AssemblyInfoInputs.cache
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.AssemblyInfo.cs
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.csproj.CoreCompileInputs.cache
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.dll
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\refint\SkyHM.dll
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.pdb
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\SkyHM.genruntimeconfig.cache
+C:\Users\husse\source\repos\SkyHM\SkyHM\obj\Debug\net8.0\ref\SkyHM.dll
